@@ -61,16 +61,14 @@ Fiber optic links can transmit both digital and analog signals. A fiber optic li
 ---
 
 ## Tabulation
-
-| Frequency (Hz) | Input Amplitude (Vi) | Output Amplitude (Vo) | Gain (Vo/Vi) | Gain (dB) |
-|----------------|-----------------------|------------------------|--------------|-----------|
-|                |                       |                        |              |           |
+<img width="1413" height="1272" alt="image" src="https://github.com/user-attachments/assets/7586f11e-e0eb-44a7-95a0-1047b2f5e594" />
 
 ---
 
 ## Model Graph
 - Plot **Gain (dB)** vs. **Frequency (Hz)**.  
-- Identify the **3 dB down point** to determine bandwidth.  
+- Identify the **3 dB down point** to determine bandwidth.
+<img width="1600" height="1221" alt="image" src="https://github.com/user-attachments/assets/33fd9ac1-7158-4351-b333-304b885e07a9" />
 
 ---
 
